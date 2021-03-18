@@ -1,5 +1,4 @@
-Project by Aditya R, Institute of Technology, Nirma University
-Copyright (C) 2020 by Aditya R, Institute of Technology.
+Copyright (C) 2020 by Aditya R, Institute of Technology, Nirma University.
 
 # Playing-with-data-using-python
 A project using SQL, SQL connectivity, Numpy, Matplotlib. 
