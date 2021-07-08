@@ -1,3 +1,5 @@
+#by aditya-rk01
+#23-03-2021
 import mysql.connector as sqltor
 import matplotlib.pyplot as plt
 import numpy as np
